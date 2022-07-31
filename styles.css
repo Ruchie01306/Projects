@@ -6,7 +6,11 @@
 
 body {
   height: 100vh;
+<<<<<<< HEAD
   background-color: rgb(14, 13, 63);
+=======
+  background-color: rgb(203,223,25);
+>>>>>>> eea9b9658c587f1f04c1f80464d679ef4c0a9617
   display: flex;
 }
 
